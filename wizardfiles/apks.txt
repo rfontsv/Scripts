@@ -1,3 +1,11 @@
+name="[COLOR dodgerblue]Kodi 20.1 [COLOR white]- Android armeabi v7a[/COLOR]"
+section="no"
+url="https://mirrors.kodi.tv/releases/android/arm/kodi-20.1-Nexus-armeabi-v7a.apk"
+icon="https://i.imgur.com/voCri7f.png" 
+fanart="https://i.imgur.com/ivziStg.jpg"
+adult="no"
+description="kodi-20.1-armeabi-v7a"
+
 name="[COLOR dodgerblue]Kodi 19.4 [COLOR white]- Android armeabi v7a[/COLOR]"
 section="no"
 url="https://mirrors.kodi.tv/releases/android/arm/kodi-19.4-Matrix-armeabi-v7a.apk"
