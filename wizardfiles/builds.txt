@@ -1,6 +1,6 @@
 name="GTKing Prime MATRIX"
 version="1.0"
-url="https://github.com/gtkingbuild/Repo-GTKing/releases/download/1.0/GTKing.MATRIX.zip"
+url="https://github.com/rfontsv/Repo-GTKing/raw/rel/GTactil.MATRIX-o.zip"
 minor="http://"
 gui="http://"
 kodi="19"
