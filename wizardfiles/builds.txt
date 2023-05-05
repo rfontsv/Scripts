@@ -1,4 +1,4 @@
-name="GTKing Prime MATRIX"
+name="GTKing Prime MATRIX-o"
 version="1.0"
 url="https://github.com/rfontsv/Repo-GTKing/raw/rel/GTactil.MATRIX-o.zip"
 minor="http://"
