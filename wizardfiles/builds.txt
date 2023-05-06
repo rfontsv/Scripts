@@ -1,4 +1,4 @@
-name="GTKing Prime MATRIX"
+name="BuildRik NEXUS"
 version="1.0"
 url="https://github.com/gtkingbuild/Repo-GTKing/releases/download/1.0/GTKing.MATRIX.zip"
 minor="http://"
