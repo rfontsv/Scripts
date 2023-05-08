@@ -1,4 +1,4 @@
-name="GTKing MATRIX"
+name="BuildRik Matrix Nexus"
 version="1.0"
 url="https://github.com/rfontsv/Repo-GTKing/raw/rel/Build.Rik.zip"
 minor="http://"
