@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-name="GTKing MATRIX"
-=======
 name="BuildRIK NEXUS"
->>>>>>> Stashed changes
 version="1.0"
 url="https://github.com/rfontsv/Repo-GTKing/raw/rel/Build.Rik.zip"
 minor="http://"
